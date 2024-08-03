@@ -2,7 +2,7 @@
 # Hi there, I'm Can Karacelebi
 
 ## 🚀 About Me
-I'm a 2nd year Computer Engineering student at METU
+I'm a 3rd year Computer Engineering student at METU
 
 
 ## 📈 GitHub Stats
