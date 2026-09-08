@@ -6,4 +6,4 @@ I'm a reinforcement learning enthusiast and a learning theory geek.
 
 ## Reach Me
 
-- Email: `can.karacelebi@metu.edu.tr`
+- Email: `can.karacelebi@epfl.ch`
